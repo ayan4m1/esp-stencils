@@ -1,0 +1,4 @@
+fp-*
+*-backups/
+*.gbrjob
+*.kicad_prl
