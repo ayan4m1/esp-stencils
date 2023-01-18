@@ -7,8 +7,10 @@ This repository contains Gerber files that can be used to order PCB stencils for
  * ESP32-WROOM
  * ESP32-WROVER
  * ESP32-S2
+ * ESP32-S2-MINI-1/1U
  * ESP32-S3-1/1U
  * ESP32-S3-2
+ * ESP32-S3-MINI-1/1U
 
 ## How to use
 
