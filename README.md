@@ -15,6 +15,13 @@ This repository contains Gerber files that can be used to order PCB stencils for
  * ESP32-PICO-V3-ZERO
  * ESP32-C6-WROOM-1/1U
  * ESP32-C6-MINI-1/1U
+ * ESP32-C3-MINI-1/1U
+ * ESP32-C3-WROOM-O2/O2U
+ * ESP32-C5-WROOM-1
+ * ESP32-C5-MINI-1
+ * ESP32-H2-MINI-1/1U
+ * ESP32-H2-WROOM-O2C
+ * ESP32-P4
 
 ## How to use
 
